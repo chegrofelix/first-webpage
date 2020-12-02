@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Ribeye','roboto mono', 'Courier New', Courier, monospace;
+}
+h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p {
+    font-family: sans-serif, monospace;
+  }
+  ul {
+    line-height: 40px;
+    text-align: auto;
+  }
+  body {
+      background-color: #9FE2BF;
+  }
+  p {
+      color: maroon;
+
+  }
+  ol {
+      line-height: 40px;
+  }
+  li {
+      color: red;
+  }
+  
